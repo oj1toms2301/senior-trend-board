@@ -1,0 +1,10 @@
+{
+  "name": "senior-trend-board",
+  "version": "1.0.0",
+  "description": "시니어 트렌드 인포그래픽 자동 요약 프로젝트",
+  "type": "module",
+  "scripts": {
+    "report": "node scripts/generate_report.js"
+  },
+  "dependencies": {}
+}
